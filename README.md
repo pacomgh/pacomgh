@@ -26,12 +26,17 @@ I'm community co-lead & co-founder at [Azure Tech Frogs](https://linktr.ee/azure
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
--  I’m currently learning ...
+
 ## 💞️ I’m looking to collaborate on ...
 
 - Open Source Projects
 - Build and Create Communities
-- DevRel Projects
+- DevRel 
+
+## 📚 Currently Learning Languages
+- Portuguese 🇧🇷
+- French 🇫🇷
+- German 🇩🇪
 
 ## 📫 How to reach me ...
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pacomgh/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](paco.mgh@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/pacomgh/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pacoMGH)
